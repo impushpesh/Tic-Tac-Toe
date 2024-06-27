@@ -1,6 +1,6 @@
 <h1 align="center" id="title">Tic-Tac-Toe</h1>
 
-<p id="description">A simple frontend project Tic-Tac-Toe game built using basic HTML CSS and JavaScript. P.S- I will be updating the UI and functionality of the game frequently.</p>
+<p id="description">A simple frontend project Tic-Tac-Toe game built using basic HTML CSS and JavaScript. </p>
 
   
   
